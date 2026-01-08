@@ -1,0 +1,2 @@
+EMBEDDING_MODEL = "openai"
+EMBEDDING_VERSION = "v1"

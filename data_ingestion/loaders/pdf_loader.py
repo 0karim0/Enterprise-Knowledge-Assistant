@@ -23,8 +23,3 @@ class PDFLoader:
             "text": text,
             "metadata": metadata
         }
-
-# Example usage:
-# loader = PDFLoader("data/docs/sample.pdf")
-# doc = loader.load()
-# print(doc["metadata"])
